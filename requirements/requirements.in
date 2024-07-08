@@ -1,7 +1,8 @@
+ipykernel
+jupyter
+ipywidgets
 pyautogen
 autogenstudio
-jupyter
-ipykernel
 pypdf
 pydantic
 langchain
@@ -12,3 +13,6 @@ arxiv
 lxml
 matplotlib
 sentence_transformers
+pandas
+yfinance
+markdownify
